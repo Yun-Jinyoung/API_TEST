@@ -7,4 +7,4 @@ if __name__ == '__main__':
     result = response.json()
     result['userId']
 
-# 오늘은 Github 다른 소스 분석을 합니다. 내일 소스 업데이트 예정
+ # 오늘은 Github 다른 소스 분석을 합니다. 내일 소스 업데이트 예정
